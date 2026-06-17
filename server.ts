@@ -11,7 +11,7 @@ import { GoogleGenAI } from "@google/genai";
 import dotenv from "dotenv";
 
 // Load environment variables
-dotenv.config();
+dotenv.config(); 
 
 // Securely check for key or lazy load
 const getGeminiClient = (): GoogleGenAI | null => {
