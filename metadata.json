@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart Clone",
+  "description": "A high-fidelity Flipkart clone featuring category browsing, advanced filters, shopping cart, multi-step secure virtual checkout, and an intelligent Gemini-powered shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
